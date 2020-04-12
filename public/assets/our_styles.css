@@ -1,0 +1,9 @@
+/* Our own custom styles on top of Bootstrap */
+
+body {
+  font-family: "Montserrat";
+}
+
+.navbar-brand {
+  font-family: "Passion One";
+}
